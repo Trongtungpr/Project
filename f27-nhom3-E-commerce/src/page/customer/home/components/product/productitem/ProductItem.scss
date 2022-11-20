@@ -1,0 +1,31 @@
+.item {
+    margin: 10px auto;
+    width: 300px;
+    height: max-content;
+    border: 2px solid rgb(66, 109, 73);
+    border-radius: 7px;
+    .product {
+      border-bottom: 1px solid rgb(216, 211, 211);
+      .img-fluid {
+        width: 100%;
+      }
+    }
+    .text a {
+        color:rgb(66, 109, 73);
+        font-weight: bold;
+    }
+    .pricing {
+      margin:auto;
+    }
+    .item-cart {
+      display: flex;
+      justify-content: center;
+      .cart {
+        margin: 0 5px;
+        padding: 7px 10px;
+        color: rgb(66, 109, 73);
+        cursor: pointer;
+      }
+    }
+  }
+  

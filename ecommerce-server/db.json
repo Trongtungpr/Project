@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+      "email": "trongtungpr@gmail.com",
+      "password": "12345678",
+      "createdAt": "2022-10-31T13:00:52.766Z",
+      "updateAt": "2022-10-31T13:00:52.766Z",
+      "id": 1
+    },
+    {
+      "email": "trongtung@gmail.com",
+      "password": "$2a$10$u/Xo7a6Jq4.xRAjmeRq87ufstOPwN00T5ySPUdCOSuRQh/bi5SYHu",
+      "createdAt": "2022-10-31T13:09:27.099Z",
+      "updateAt": "2022-10-31T13:09:27.099Z",
+      "id": 2
+    },
+    {
+      "email": "trongtungdn@gmail.com",
+      "password": "$2a$10$U8H2mKcoeSs1qeHhGje2j.obPA9QJ2YutYL.8PpXmS3NjbMGIAKNK",
+      "createdAt": "2022-11-10T13:02:25.212Z",
+      "updateAt": "2022-11-10T13:02:25.212Z",
+      "id": 3
+    },
+    {
+      "email": "trongtungprdn@gmail.com",
+      "password": "$2a$10$CBKtzLi8/dlZmQmojVY..epb9oUUOJB3mBPyogdGNBvTJ8nd5roiy",
+      "createdAt": "2022-11-10T14:10:29.470Z",
+      "updateAt": "2022-11-10T14:10:29.470Z",
+      "id": 4
+    },
+    {
+      "email": "tungle@gmail.com",
+      "password": "$2a$10$EGgiiBMmpVwMWzY4QAXGDObnEkybRHOoH8pwuDg8xAFoAD1uzCYE.",
+      "createdAt": "2022-11-12T12:53:29.637Z",
+      "updateAt": "2022-11-12T12:53:29.637Z",
+      "id": 5
+    }
+  ],
+  "category":[
+    {
+      "id": "",
+      "name": ""
+    }
+  ],
+  "product": [
+    {
+      "id": "448ec1cd-1403-4006-bb98-574176627f3d",
+      "name": "BELL PEPPER",
+      "price": "$120.00",
+      "cart": "",
+      "img": "https://technext.github.io/vegefoods/images/product-1.jpg",
+      "cacategory": "",
+      "like": ""
+    },
+    {
+      "id": "045af44d-44d9-4480-ac1f-1c8b97f7cf3b",
+      "name": "STRAWBERRY",
+      "price": "$120.00",
+      "cart": "",
+      "img": "https://technext.github.io/vegefoods/images/product-2.jpg",
+      "cacategory": "",
+      "like": ""
+    },
+    {
+      "id": "90114e33-aa30-4764-8587-bd3f9a3eda64",
+      "name": "GREEN BEANS",
+      "price": "$120.00",
+      "cart": "",
+      "img": "https://technext.github.io/vegefoods/images/product-3.jpg",
+      "cacategory": "",
+      "like": ""
+    },
+    {
+      "id": "79d79917-c9af-4806-ab0e-587a2bf63758",
+      "name": "PURPLE CABBAGE",
+      "price": "$120.00",
+      "cart": "",
+      "img": "https://technext.github.io/vegefoods/images/product-4.jpg",
+      "cacategory": "",
+      "like": ""
+    }
+  ]
+}
